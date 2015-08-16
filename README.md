@@ -6,4 +6,4 @@ CoreTextDemo for iOS7
 A Demo for iOS7 TextKit, support custom emoji & URL, can touch URL .
 Please run it on Xcode5 & SDK7. 
 
-![image](https://github.com/Jingoal/JingoalTextKit/ScreenShot.png)
+![image](https://github.com/Jingoal/JingoalTextKit/blob/master/ScreenShot.png)
